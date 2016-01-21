@@ -1,0 +1,62 @@
+# Menus
+menu:
+    Home: /
+    # Delete this row if you don't want categories in your header nav bar
+    Categories:
+    # About: /hexo-theme-hueman/about/index.html
+
+# Customize
+customize:
+    logo:
+        width: 126
+        height: 159
+        url: images/invlogo.png
+    theme_color: '#3b8dbd'
+    highlight: androidstudio
+    sidebar: right # sidebar position, options: left, right
+    thumbnail: true # enable posts thumbnail, options: true, false
+    favicon: # path to favicon
+    social_links: # for more icons, please see http://fontawesome.io/icons/#brand
+        twitter: https://twitter.com/ronnieoverby        
+        github: https://github.com/ronnieoverby
+        rss: /
+
+# Widgets
+widgets:
+    - recent_posts
+    - category
+    - archive
+    - tag
+    - tagcloud
+    - links
+
+# Search
+search:
+    swiftype: # enter swiftype install key here
+    baidu: false # you need to disable other search engines to use Baidu search, options: true, false
+
+# Comment
+comment:
+    disqus: ronnieoverby # enter disqus shortname here
+    duoshuo: # enter duoshuo shortname here
+    youyan: # enter youyan uid here
+
+# Comment
+share: default # options: jiathis, bdshare, addtoany, default
+
+# Plugins
+plugins:
+    fancybox: true # options: true, false
+    scrollLoading: true # options: true, false
+    google_analytics: UA-72707610-1 # enter the tracking ID for your Google Analytics
+    baidu_analytics: # enter Baidu Analytics hash key
+
+# Miscellaneous
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
+    links:
+        Hexo: http://hexo.io
