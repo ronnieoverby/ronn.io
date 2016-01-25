@@ -1,4 +1,4 @@
-title: Hacking Event Sequences with Reactive Extensionsr
+title: Hacking Event Sequences with Reactive Extensions
 categories:
   - Code
 tags:
