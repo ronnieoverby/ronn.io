@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/ronnieoverby
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ronn.io
+  * I am ronnieoverby (https://keybase.io/ronnieoverby) on keybase.
+  * I have a public key with fingerprint 3054 7892 0BA7 DA55 B368  9018 8B69 4EAF A9A8 A56E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120973c8ea8e63a5b353ed1a3027b87fbc1786874a73724b07c1f86a58540d571520a",
+      "fingerprint": "305478920ba7da55b36890188b694eafa9a8a56e",
+      "host": "keybase.io",
+      "key_id": "8b694eafa9a8a56e",
+      "kid": "0101f0a5a3379f27c571b8fadf2eba1aa9747482e46ac6b1417385970255657825360a",
+      "uid": "4e82ae040632847b0c118e4785ad7719",
+      "username": "ronnieoverby"
+    },
+    "service": {
+      "hostname": "ronn.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1584966275,
+  "expire_in": 157680000,
+  "prev": "d8bddee28473f4c678cfac3d05e05cc96b002102c37d7bc0bbe3d8cacc9c13ac",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGN5FIaBxoICx1RidG0oDjNzvc3YHkkgH00SQjwxp4dx7z8IN
+uBd3Lyu0YRDqNNKHMQ2ohCUC4jIMaqaEEvE1o2OANmNlKToS+Y1fgYmC3aWc6Ufn
+z5nzvs/zvM/zzumbM8vgb6yUE9v2NzcqxlPdNUUGa7G7wkUIqlRCWFxEHp65cL6E
+HVpWniwRFoKkaNIMGBFiBDHPIE5gOAZLFGJIGggQ2ASRApCHgEWAATQrkECkbJBH
+HORYUuIAxdEkIqIIm6zkYHuhXVY0XZYhORZAM00KCEiI01V5aCYpCAXezGJkQ2YE
+EcdjnZirOjwM3ZyAHHiJrOo1/ZE1Y+9/8E99k5SNRBxiGGC20UDUnQjQhiQbjQVE
+IWQGLGAhjVkeibxAsRRgIGcGJM1xPAcgzTH8jO+iGTkWQxphkiV5hoYsEEiRoiDW
+I3BIAoAye4AObFdQAdbRdlVRZKw6sV0oIUqjCL3jlEXsWa4nzX9Q/8QptKuaKqr5
+ejFX0wodFg9JKyn0oDZiIetffpYgK5K+Rp2hSztkVSEslI4UNdkjSHGQNfM8Dbgo
+AhcXynacJXsQHOAhqR/PHOzUJSUoSBLGniCMjRV5AEUbEhmJ5DDJiaKZF0iSpkha
+ZIAEBJEUBMxIUER6S6QYJBKeRBsUlbAw+igN5eiaDjlHQVqRHROlPd2Zsw1Gf4OP
+t5fnfxn8/QKf/rqKawFTQTfbmnZ8TpmOKQ2d3G9TYVfeSPBPTQ6xNHhfHurvX8ZO
+FRk7JoPSQi4cnJc+Of/Rd51ndv9Ve7Ld2r7d50Te5K8qlxR7vviPRWv3b/K7HV8V
+eKZ8d9fomoFs59oWnomKNFAV4y0r/jzneG7u2Y9+39J7pe29LaEDrV9GD5rKT7fs
+CrPGv3/9xeDFPxT/sjPtreqOZ4+WLk1OK7j3aUwr6pp+3Wezy9LHX/AaubTat6dz
+38IjEXfvoNQ4v9yz8Oe45B1zVg0mHG9eeYh/qNSlJ3pt8tUeLMW1iyICRnt7L6+c
+7Z3wxS5j6I2M9dryrVPZ2xcveBTvfs0V0lP35sWfPigz1d+o2lw8MmBMv/XKN1cb
+E2Z9NlZb5gzuDmxY4zU6lveJyTv4hY6N8x/0uVPcxWUTvucnNkSGGrWjJzK+3pmg
+HD4dH/2O+0hmxd7EcGtsQWRXWnSPjynTNzYopdzxbv2T4br7L+0b+Tgm/MDg7dVx
+llPfa2ETb5NjtTV2/2O3mocnnEk1F7to0zi1bjJ72YcpTdNXC+sf5u5JWniocij9
+xzvV38ZaH9vmhUSut7S6Gp8H56bUw6iJLZJDUjsrq9Q9X00cQc+Mq48DnENR2+bm
+bxvrffWadcGS5e7aykt7w9dRxzvt/XerE3JcJ+/HQNvBJuxsn7aXXM+45zO2dTqt
+TnziVla9bIi4eWBo+G/B/cSj
+=Y+ak
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ronnieoverby
+
+==================================================================
